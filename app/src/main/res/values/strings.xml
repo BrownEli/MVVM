@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MVVM</string>
+
+    <string-array name="titles">
+        <item>Hungry Myna</item>
+        <item>Perching Myna</item>
+        <item>Pair of mynas</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>close-up of myna looking for food.</item>
+        <item>close-up of bird perching in lake</item>
+        <item>Beautiful pair of myna birds sitting on a branch</item>
+    </string-array>
+
+    <string-array name="urls">
+        <item>https://media.gettyimages.com/photos/common-myna-picture-id1287262183?s=612x612</item>
+        <item>https://www.abc.net.au/reslib/200709/r186930_1738931.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg</item>
+    </string-array>
+</resources>
